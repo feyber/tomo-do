@@ -1,0 +1,6 @@
+{
+  "name": "TOMO-DO",
+  "description": "Mobile-only task manager for tomorrow's planning with Telegram notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
